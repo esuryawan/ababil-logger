@@ -1,0 +1,16 @@
+{
+   "compilerOptions": {
+      "target": "ES6",
+      "module": "CommonJS",
+      "declaration": true,
+      "outDir": "./build",
+      "strict": true,
+      "allowJs": true,
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "removeComments": true
+   },
+   "include": [
+      "./src/**/*.ts"
+   ]
+}
